@@ -6,7 +6,7 @@ author_profile: true
 
 ## About Me
 
-I am **Zhenye Fan**, a Ph.D. student at [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/).
+I am **Zhenye Fan**, a Ph.D. student at National University of Defense Technology (NUDT).
 
 My research focuses on **compiler fuzzing**, **software testing**, and **AI for software engineering**.
 
@@ -18,18 +18,25 @@ My research focuses on **compiler fuzzing**, **software testing**, and **AI for 
 
 ## Education
 
-- **2021 - Present**: Ph.D. in Computer Science, National University of Defense Technology (NUDT)
-- **2019 - 2021**: M.S. in Computer Science, National University of Defense Technology (NUDT)  
-- **2015 - 2019**: B.S. in Computer Science, National University of Defense Technology (NUDT)
+- **2025 - Present**: Ph.D. in Computer Science, National University of Defense Technology (NUDT)
+- **2022 - 2025**: M.S. in Computer Science, Northwest University (NWU)
 
-## Recent News
+## Recent Publications
 
-- **March 2025**: Homepage is now online!
-- **August 2024**: Paper accepted at ISSRE 2024!
+- **History-driven Compiler Fuzzing via Assembling and Scheduling Bug-triggering Code Segments**  
+  *ISSRE 2024* - [View Details](https://aidpaike.github.io/publications/)
+
+- **A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing**  
+  *ESEC/FSE 2023* - [View Details](https://aidpaike.github.io/publications/)
+
+- **SSFuzz: Synthesizing and Scheduling Bug-Triggering Code Segments for History-Driven Compiler Testing**  
+  *EMSE 2026* - [View Details](https://aidpaike.github.io/publications/)
+
+[View All Publications](https://aidpaike.github.io/publications/)
 
 ## Contact
 
-- 📧 Email: [zhenyefan@163.com](mailto:zhenyefan@163.com)
+- 📧 Email: zhenyefan@163.com
 - 🐙 GitHub: [AidPaike](https://github.com/AidPaike)
 - 🎓 Google Scholar: [Zhenye Fan](https://scholar.google.com/citations?hl=en&user=YsCItkMAAAAJ)
 
